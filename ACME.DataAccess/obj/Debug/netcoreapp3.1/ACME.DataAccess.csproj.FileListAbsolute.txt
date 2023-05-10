@@ -1,0 +1,13 @@
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.AssemblyInfo.cs
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\bin\Debug\netcoreapp3.1\ACME.DataAccess.deps.json
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\bin\Debug\netcoreapp3.1\ACME.DataAccess.dll
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\bin\Debug\netcoreapp3.1\ACME.DataAccess.pdb
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\bin\Debug\netcoreapp3.1\ACME.Business.dll
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\bin\Debug\netcoreapp3.1\ACME.Business.pdb
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.csproj.CopyComplete
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.dll
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.DataAccess\obj\Debug\netcoreapp3.1\ACME.DataAccess.pdb

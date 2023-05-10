@@ -1,0 +1,10 @@
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.csproj.AssemblyReference.cache
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.AssemblyInfoInputs.cache
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.AssemblyInfo.cs
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.csproj.CoreCompileInputs.cache
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\bin\Debug\netcoreapp3.1\ACME.Business.deps.json
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\bin\Debug\netcoreapp3.1\ACME.Business.dll
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\bin\Debug\netcoreapp3.1\ACME.Business.pdb
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.dll
+C:\Users\jhohan_vasquez\Source\Repos\ACME\ACME.Business\obj\Debug\netcoreapp3.1\ACME.Business.pdb
