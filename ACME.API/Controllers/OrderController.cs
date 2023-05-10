@@ -39,7 +39,14 @@ namespace ACME.API.Controllers
             if (Request != null)
             {
                 var result = _acmeService.SendOrder(Request);
-                return Ok(result);
+                if(result.IsSuccess)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return BadRequest();
+                }                
             }
             else
             {
