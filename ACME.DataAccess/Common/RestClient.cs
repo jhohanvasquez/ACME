@@ -107,16 +107,19 @@ namespace ACME.DataAccess.Common
                 {
                     if (response.IsSuccessStatusCode)
                     {
+                        oCommandResponse.IsSuccess = true;
                         return oCommandResponse;
                     }
                     else
                     {
+                        oCommandResponse.IsSuccess = false;
                         return oCommandResponse;
                     }
                 }
                 else
                 {
-                    return null;
+                    oCommandResponse.IsSuccess = false;
+                    return oCommandResponse;
                 }
             }
         }

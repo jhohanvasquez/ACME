@@ -7,6 +7,7 @@ namespace ACME.Business.Entities
 {
     public class CommandResponse 
     {
+        public bool IsSuccess { get; set; }
         public string ResponseXml { get; set; }
         public string ResponseJson { get; set; }
     }
